@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 
-
+# first github problem
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         prev = None
